@@ -2,10 +2,12 @@
 !*.mmdb
 !*.md
 !*.markdown
-!*.sass
+!*.scss
 !*.rb
 !*.ru
 !*.yml
+!*.xml
+!*.swf
 !*.py
 !*.ini
 !*.yaml
@@ -27,8 +29,14 @@
 !*.json
 !*.gpg
 !*.gitignore   
-Gemfile
-CNAME
-Rakefile
+!Gemfile
+!CNAME
+!Rakefile
+!source
+!sass
+!plugins
+source/_posts
+public
+.themes
 
 
